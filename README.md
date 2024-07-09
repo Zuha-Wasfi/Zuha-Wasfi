@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning front-end development
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through my e-mail: zuhawasfi123@gmail.com
-- 😄 Pronouns: her
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
 <!---
