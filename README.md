@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zuha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Computer Science from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuha-wasfi&label=Profile%20views&color=0e75b6&style=flat" alt="zuha-wasfi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zuha-wasfi" alt="zuha-wasfi" /></a> </p>
 
-- 🌱 I’m currently learning **front-end development**
+- 🌱 I’m currently learning **full stack development**
 
 - 📫 How to reach me **zuhawasfi123@gmail.com**
 
